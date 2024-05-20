@@ -5,9 +5,7 @@ Welcome to the To-Do List project! This responsive web application helps you man
 ## 🚀 Features
 
 - **Add Tasks**: Quickly add new tasks to your to-do list.
-- **Edit Tasks**: Modify existing tasks to keep your list up-to-date.
 - **Delete Tasks**: Remove tasks that are no longer needed.
-- **Mark as Complete**: Check off tasks once they are done.
 - **Responsive Design**: Ensure a seamless experience across various devices.
 - **Persistent Storage**: Tasks are saved in the local storage, so your list remains even after refreshing the page.
 
