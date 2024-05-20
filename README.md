@@ -42,7 +42,7 @@ Welcome to the To-Do List project! This responsive web application helps you man
 
 ## 🌐 Live Demo
 
-Try out the To-Do List application with our live demo - 
+Try out the To-Do List application with our live demo - https://chula805.github.io/ToDoList/
 
 ## 📬 Feedback
 
